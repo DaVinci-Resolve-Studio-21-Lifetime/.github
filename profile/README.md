@@ -247,6 +247,6 @@ Some specialized or encrypted delivery options may require additional licensing 
 - Keep independent backups of important media and project files.
 - Some delivery formats and external tools may require separate licensing.
 
-## Keywords
+## Tags
 
 DaVinci Resolve Studio, DaVinci Resolve video editor, video editing software, color grading, film editing, Fusion visual effects, Fairlight audio, VFX tools, HDR grading, noise reduction, Magic Mask, Super Scale, Speed Warp, multicam editing, audio mixing, cinematic color, video rendering, digital cinema
